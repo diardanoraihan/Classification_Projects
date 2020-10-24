@@ -30,6 +30,6 @@ Using 3 different tree methods as follows:
 
 In short, the performance of these models are as follows:
 
-A Random Forest Classifier accuracy: 0.92
-A Decision Tree Classifier accuracy: 0.92
-A Gradient Boosting Classifier accuracy: 0.9244444444444444
+- A Random Forest Classifier accuracy: 0.92
+- A Decision Tree Classifier accuracy: 0.92
+- A Gradient Boosting Classifier accuracy: 0.9244444444444444
