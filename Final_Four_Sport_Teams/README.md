@@ -16,9 +16,10 @@ We will load a historical data set from previous seasons, clean the data, and ap
 
 The results are reported as the accuracy of each classifier, using the following metrics when applicable:
 
-Jaccard index
-F1-score
-Accuracy
+- Jaccard index
+- F1-score
+- Accuracy
+- LogLoss (for Logistic Regression)
 
 ## Report
 
